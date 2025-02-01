@@ -1,11 +1,4 @@
 
-- 👋 Hi, I’m @ismyrat
-- 👀 I’m interested in singgleparents
-- 🌱 I’m currently learning dasar pemograman
-- 💞️ I’m looking to collaborate on ?
-- 📫 How to reach me ?
-- 😄 Pronouns: ...?
-- ⚡ Fun fact: ...?
 - 
 
 <!---
